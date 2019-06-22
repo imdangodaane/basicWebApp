@@ -28,6 +28,11 @@
   height: auto;
 }
 
+.hr {
+  border-top: 3px solid yellow;
+  width: auto;
+}
+
 .cta-100 {
   margin-top: 100px;
   padding-left: 8%;
